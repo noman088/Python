@@ -6,6 +6,10 @@ n=int(input("Enter n Number "))
 #     i+=1
 
 #Without using i or any variable
-while n:
-    print("MySirG")
-    n-=1
+# while n:
+#     print("MySirG")
+#     n-=1
+
+for i in range(1,n+1):
+    print("MYsirg")
+    

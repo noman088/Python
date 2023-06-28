@@ -1,7 +1,7 @@
 1. Write a python program to create and print a dictionary which stores your information.
 (name, age, gender …..)
 2. Write a python program to access the items of a dictionary by referring to its key
-name.
+name.   
 3. Write a python program to get a list of the values from a dictionary.
 4. Write a python program to change the value of a specific item by referring to its key
 name.
