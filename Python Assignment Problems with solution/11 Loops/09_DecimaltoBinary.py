@@ -2,17 +2,19 @@
 # use bin() method)
 
 
+### 1st method
 # a=int(input("Enter a number"))
 # n=[]
 # while a>0:
 #     digit =(a%2)
 #     n.append(digit)
 #     a//=2
-
 # n.reverse();
 # for e in n:
 #     print(e,end='')
     
+
+# 2nd Method
 n=int(input("Enter a number"))
 s=''
 while n:
