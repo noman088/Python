@@ -1,0 +1,22 @@
+.image {
+    height: auto;
+    max-width: 100%;
+}
+
+.images {
+    column-count: 3;
+    margin: 10px;
+    padding: 10px;
+
+}
+/* Add media queries */
+
+
+/* Apply css below width */
+/* @media (max-width:999px) { 
+     images{
+        display: grid;
+        column-count: 2;
+    } */
+    
+}

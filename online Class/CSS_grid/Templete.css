@@ -1,0 +1,27 @@
+.page{
+    display: grid;
+    grid-template-areas:  
+                        "head head",
+                        "nav main"
+                        "nav foot";
+    grid-template-rows: 200px  auto   100px    ;
+    grid-template-columns: 100px 1fr;
+    
+
+/* Look at the resources  this is not good */
+
+
+}
+.header{
+    grid-area: head;
+    background-color:aliceblue;
+}
+.nav{
+    grid-area: nav;
+    background-color:aliceblue;
+
+}
+.main{
+    grid-area: main;
+    background-color:aliceblue;
+}
